@@ -1,0 +1,25 @@
+.currency-conversion-form {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background: white;
+  .base-unit-input {
+    width: 10%;
+    padding: 10px;
+    margin: 10px;
+  }
+  .base-currency-input {
+    width: 40%;
+    padding: 10px;
+    margin: 10px;
+  }
+  .currency-convert {
+    padding: 11px 20px; /* extra 1px vertically because input box has a border */
+    background: teal;
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin: 10px;
+  }
+}
