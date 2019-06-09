@@ -1,3 +1,11 @@
+# Free Currency Converter
+#### A basic React application which makes use of the free currency exchange rates API provided by the European Central Bank : https://api.exchangeratesapi.io/
+
+----
+## Screenshot
+
+![Screenshot of the free currency converter](https://raw.githubusercontent.com/debodirno/free-currency-converter/master/screenshot-dev.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
